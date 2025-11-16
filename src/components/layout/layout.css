@@ -1,0 +1,16 @@
+/* === CUSTOM MENU ANT DESIGN === */
+
+.custom-menu .ant-menu-item-selected {
+  background-color: #D17900 !important;
+  border-radius: 6px;
+}
+
+.custom-menu .ant-menu-item:hover {
+  background-color: rgba(209, 121, 0, 0.6) !important;
+  border-radius: 6px;
+}
+
+/* Submenu popup */
+.ant-menu-submenu-popup .ant-menu-item-selected {
+  background-color: #D17900 !important;
+}
